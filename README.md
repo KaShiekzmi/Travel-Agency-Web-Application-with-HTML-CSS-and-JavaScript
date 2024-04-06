@@ -9,7 +9,7 @@ This application is developed as part of our Web Technology course semester proj
 - **Home**: A welcoming interface that introduces users to the services and offers available.
 - **Package**: Detailed listings of travel packages, including return tickets from various countries.
 - **Book**: An easy-to-use booking interface where users can reserve their travel packages.
-- **About**: Information about the travel agency, including its mission, vision, and history.
+- **About**: Information about the travel agency.
 - **Ratings Section**: Users can view package ratings to make informed decisions based on others' experiences.
 
 ## Technology Stack
@@ -27,7 +27,7 @@ Our UI/UX designs are available on Figma. You can view the designs using the fol
 
 Experience our Travel Agency Web Application firsthand through our deployed page:
 
-[Deployed Application](https://github.com/KaShiekzmi/Travel-Agency-Web-Application-with-HTML-CSS-and-JavaScript)
+[Deployed Application](https://kashiekzmi.github.io/Travel-Agency-Web-Application-with-HTML-CSS-and-JavaScript/)
 
 (Note: Please ensure to update this link if it changes in the future or if a direct link to a hosted version becomes available.)
 
