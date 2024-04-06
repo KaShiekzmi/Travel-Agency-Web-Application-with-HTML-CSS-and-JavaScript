@@ -1,6 +1,6 @@
 # Travel Agency Web Application
 
-Welcome to our Travel Agency Web Application, a simple yet effective web application designed to cater to your travel needs. This project offers an intuitive way to browse and book return tickets to various countries, accompanied by a user-friendly interface for managing bookings and viewing travel packages.
+Welcome to our Travel Agency Web Application, a simple yet effective web application designed to cater to your travel needs. 
 
 This application is developed as part of our Web Technology course semester project in the 5th semester at COMSATS University, Islamabad, by Kashif Abbas Kazmi and Muhammad Sarim.
 
