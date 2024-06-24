@@ -46,7 +46,7 @@ Click the image above to watch a demo of Website on YouTube.
 ### Additional Notes
 - Ensure you have Node.js and npm installed on your machine.
 
-##Usage
+## Usage
 1. **User Registration/Login:** Navigate to the registration or login pages to create an account or sign in.
 2. **Booking a Package:** Visit the Packages page, select a package, and fill out the booking form to book a trip.
 3. **Admin Functions:** Access the admin panel to manage packages and review bookings.
